@@ -20,8 +20,8 @@ global.mods = []
 global.prems = ['6282154156241'] 
 
 //+$&#-$:$!#(#;#!$(_!#+$;_)_!&
-global.fotonya1 = 'https://telegra.ph/file/3ee98976cb4f784eab41f.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3ee98976cb4f784eab41f.jpg' 
+global.fotonya1 = 'https://i.postimg.cc/yNbj0db0/20220831-205142.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/yNbj0db0/20220831-205142.jpg' 
 
 global.APIs = { // API Prefix
   // name: 'https://website'
