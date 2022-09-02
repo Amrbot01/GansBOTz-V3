@@ -3,21 +3,21 @@ let d = new Date(new Date + 3600000)
 let locale = 'id'
 let chalk = require('chalk')
 global.owner = [
+  ['6281340883965'],
   ['6282154156241'],
-  ['6282154156241'],
-  ['6282154156241', 'Amirr', true]  
+  ['6281340883965', 'Owner', true]  
   
 ] 
-global.noowner = '6282154156241'
-global.ownername = [['Amirr']]
-global.namabot = [['XYZEN BOTZ']]
-global.wm2 = [['XYZEN BOTZ']]
+global.noowner = '6281340883965'
+global.ownername = [['Owner']]
+global.namabot = [['NAUFAL BOTZ']]
+global.wm2 = [['NAUFAL BOTZ']]
 global.instalu = [['https://instagram.com/b4c00t.dtz']]
 global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.log =  'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=outline-shadow-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.mods = []
-global.prems = ['6282154156241'] 
+global.prems = ['6281340883965'] 
 
 //+$&#-$:$!#(#;#!$(_!#+$;_)_!&
 global.fotonya1 = 'https://i.postimg.cc/yNbj0db0/20220831-205142.jpg' //ganti jadi foto bot mu
@@ -56,11 +56,11 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Amirr'
-  var sticker_author = 'By XYZEN BOTZ'
+  var sticker_name = 'NAUFAL'
+  var sticker_author = 'By NAUFAL BOTZ'
 } else {
   var sticker_name = 'Amirr'
-  var sticker_author = 'by XYZEN BOTZ'
+  var sticker_author = 'by NAUFAL BOTZ'
 }
 
 const file_exif = "lib/exif.json"
@@ -74,7 +74,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = 'Created by XYZEN BOTZ'
+global.wm = 'Created by NAUFAL BOTZ'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
