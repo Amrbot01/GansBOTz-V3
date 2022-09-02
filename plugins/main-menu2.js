@@ -26,8 +26,8 @@ let tags = {
   'stalk': '*MENU STALK*',
   'tools': '*MENU TOOLS*',
 }
-let iggw = `https://instagram.com/hyuura_ofc`
-let own = `https://wa.me/6281361281833`
+let iggw = `https://instagram.com/amirbot_01`
+let own = `https://wa.me/6282154156241`
 
 const defaultMenu = {
   before: `
