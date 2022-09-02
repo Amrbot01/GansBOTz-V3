@@ -31,7 +31,7 @@ const defaultMenu = {
   header: '╭─────➣❲ %category ❳',
   body: '│✗ %cmd %islimit %isPremium',
   footer: '╰──────────────◩',
-  after: `Created By GansBOTz`,
+  after: `Created By Amirr`,
 }
 
 //━━━━━━━━[ CATEGORY ]━━━━━━━━//
